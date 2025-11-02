@@ -1,6 +1,6 @@
 ### Hello there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-My name is Bartek and I want to become a FrontEnd Developer. I'm looking for a job in Poznan, Poland. I wish to improve my skills in building front layer of websites and applications. Right now I focus on JavaScript and I want to get better with this technology every day.
+My name is Bartek and I make websites and stores. Currently improveing my skills in building front layer of websites and applications. Right now I focus on JavaScript and I want to get better with this technology every day.
 
 <table>
  <tr align="left">
